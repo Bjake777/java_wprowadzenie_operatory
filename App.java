@@ -28,6 +28,13 @@ public class App {
         System.out.println("kilometers: "+kilometers);
         System.out.println("minutes: "+minutes);
         System.out.println("accountBalance: "+accountBalance);
+
+        //zad4
+        int number1 = 5;
+        int number2 = 9;
+        int additionResult = number1 + number2;
+        System.out.println("addition result: " + additionResult);
+
     }
     
 }
