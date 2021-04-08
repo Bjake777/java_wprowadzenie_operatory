@@ -43,6 +43,12 @@ public class App {
         triangleRegion=a+b+c;
         System.out.println("perimeter of triangle: "+triangleRegion);
 
+        //zad6
+        int number = -5;
+
+        int absoluteValue = (number<0)?(-1*number):number;
+        System.out.println("absoluteValue: "+absoluteValue);
+
     }
     
 }
