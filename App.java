@@ -18,6 +18,16 @@ public class App {
         double obwod =2*pi*promien;
 
         System.out.println("obwód koła wynosi: "+obwod);
+        
+        //zad3
+        int kilometers = 10;
+        int minutes = 5;
+        int days = 0;
+        double accountBalance = 70;
+
+        System.out.println("kilometers: "+kilometers);
+        System.out.println("minutes: "+minutes);
+        System.out.println("accountBalance: "+accountBalance);
     }
     
 }
